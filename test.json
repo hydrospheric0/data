@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Australia",
+    "tot": 6572,
+    "code": "AUS"
+  },
+  {
+    "name": "Austria",
+    "tot": 285.3,
+    "code": "AUT"
+  },
+  {
+    "name": "Brazil",
+    "tot": 1976,
+    "code": "BRA"
+  },
+  {
+    "name": "Canada",
+    "tot": 8281.1,
+    "code": "CAN"
+  },
+  {
+    "name": "Chile",
+    "tot": 57,
+    "code": "CHL"
+  },
+  {
+    "name": "China",
+    "tot": 2984.9,
+    "code": "CHN"
+  },
+  {
+    "name": "Hong Kong",
+    "tot": 576.9,
+    "code": "HKG"
+  },
+  {
+    "name": "Colombia",
+    "tot": 157.1,
+    "code": "COL"
+  },
+  {
+    "name": "Czech Republic",
+    "tot": 224.6,
+    "code": "CZE"
+  },
+  {
+    "name": "France",
+    "tot": 5274.8,
+    "code": "FRA"
+  },
+  {
+    "name": "Germany",
+    "tot": 927.1,
+    "code": "DEU"
+  },
+  {
+    "name": "Greece",
+    "tot": 48.1,
+    "code": "GRC"
+  },
+  {
+    "name": "Hungary",
+    "tot": 86.4,
+    "code": "HUN"
+  },
+  {
+    "name": "India",
+    "tot": 6323.5,
+    "code": "IND"
+  },
+  {
+    "name": "Indonesia",
+    "tot": 609.9,
+    "code": "IDN"
+  },
+  {
+    "name": "Israel",
+    "tot": 21.9,
+    "code": "ISR"
+  },
+  {
+    "name": "Italy",
+    "tot": 2697.3,
+    "code": "ITA"
+  },
+  {
+    "name": "Japan",
+    "tot": 5393.4,
+    "code": "JPN"
+  },
+  {
+    "name": "Kazakhstan",
+    "tot": 14.6,
+    "code": "KAZ"
+  },
+  {
+    "name": "Malaysia",
+    "tot": 568.4,
+    "code": "MYS"
+  },
+  {
+    "name": "Norway",
+    "tot": 1641.3,
+    "code": "NOR"
+  },
+  {
+    "name": "Pakistan",
+    "tot": 20.7,
+    "code": "PAK"
+  },
+  {
+    "name": "Philippines",
+    "tot": 256.3,
+    "code": "PHL"
+  },
+  {
+    "name": "Poland",
+    "tot": 317.2,
+    "code": "POL"
+  },
+  {
+    "name": "Portugal",
+    "tot": 204.9,
+    "code": "PRT"
+  },
+  {
+    "name": "Qatar",
+    "tot": 87.7,
+    "code": "QAT"
+  },
+  {
+    "name": "Romania",
+    "tot": 44.5,
+    "code": "ROU"
+  },
+  {
+    "name": "Russia",
+    "tot": 1534.2,
+    "code": "RUS"
+  },
+  {
+    "name": "Saudi Arabia",
+    "tot": 873.5,
+    "code": "SAU"
+  },
+  {
+    "name": "Singapore",
+    "tot": 101.7,
+    "code": "SGP"
+  },
+  {
+    "name": "South Africa",
+    "tot": 709.1,
+    "code": "ZAF"
+  },
+  {
+    "name": "South Korea",
+    "tot": 1314.1,
+    "code": "KOR"
+  },
+  {
+    "name": "Spain",
+    "tot": 593.2,
+    "code": "ESP"
+  },
+  {
+    "name": "Switzerland",
+    "tot": 3206.7,
+    "code": "CHE"
+  },
+  {
+    "name": "Taiwan",
+    "tot": 472.7,
+    "code": "TWN"
+  },
+  {
+    "name": "Thailand",
+    "tot": 386.1,
+    "code": "THA"
+  },
+  {
+    "name": "Turkey",
+    "tot": 36.5,
+    "code": "TUR"
+  },
+  {
+    "name": "United Arab Emirates",
+    "tot": 32.2,
+    "code": "ARE"
+  },
+  {
+    "name": "United Kingdom",
+    "tot": 17473.3,
+    "code": "GBR"
+  },
+  {
+    "name": "United States",
+    "tot": 195355.6,
+    "code": "USA"
+  }
+]
